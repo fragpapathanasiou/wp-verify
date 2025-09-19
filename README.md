@@ -1,4 +1,4 @@
-# WP Verify Twilio Static
+# WP Verify Twilio 
 
 A WordPress plugin that integrates [Twilio Verify](https://www.twilio.com/verify) with your site to provide phone/email OTP verification via REST API and shortcodes.
 
@@ -20,11 +20,3 @@ A WordPress plugin that integrates [Twilio Verify](https://www.twilio.com/verify
 1. Upload the plugin folder to your WordPress installation under `/wp-content/plugins/wp-verify-twilio-static/`.
 2. Activate the plugin in the **Plugins** menu in WordPress.
 3. Navigate to **Settings > WP Verify Twilio** and enter your Twilio credentials.
-
-## Usage
-
-### Shortcode
-Insert the following shortcode into a page or template:
-
-```php
-[wpvts_controls]
