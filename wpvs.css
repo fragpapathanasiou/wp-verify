@@ -1,0 +1,4 @@
+.wpvts-wrap{display:flex;gap:.5rem;align-items:center;margin:.5rem 0 0 0;width:100%;flex-wrap:wrap}
+.wpvts-wrap .wpvts-code{width:8rem}
+.wpvts-wrap .wpvts-status{font-size:.9rem}
+.wpvts-wrap .wpvts-send,.wpvts-wrap .wpvts-verify{padding:.25rem .5rem;line-height:1.2;cursor:pointer}
